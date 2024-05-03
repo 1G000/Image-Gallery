@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles.css" />
+    <link type="image/x-icon" href="./assets/favicon-32x32.png" />
+    <title>Image gallery</title>
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="content-container">
+        <header class="header">
+          <div class="title">
+            <h1 class="main-title">image-gallery by 1g000</h1>
+            <p>(Unsplash API)</p>
+          </div>
+
+          <img class="camera-img" alt="camera" src="./assets/PnSdigiCam.svg" />
+
+          <form class="form" type="text">
+            <input
+              class="input"
+              type="text"
+              placeholder="category name"
+              autofocus
+            />
+            <button class="button">
+              <span class="close-ico" title="clear"></span>
+            </button>
+            <button class="button">
+              <span class="search-ico" title="find"></span>
+            </button>
+          </form>
+        </header>
+        <main>
+          <div class="galery-container"></div>
+        </main>
+        <footer class="footer">
+          <div class="git-logo_container">
+            <a href="https://github.com/1G000"
+              ><img
+                class="gh-logo"
+                src="./assets/github-mark.svg"
+                alt="GitHub logo"
+            /></a>
+          </div>
+          <p class="year">2023</p>
+          <div class="rss-logo_container">
+            <a href="https://rs.school/js-stage0/"
+              ><img class="logo" src="./assets/rs_school_js.svg" alt="RSS logo"
+            /></a>
+          </div>
+        </footer>
+      </div>
+    </div>
+    <script src="./scripts.js"></script>
+  </body>
+</html>

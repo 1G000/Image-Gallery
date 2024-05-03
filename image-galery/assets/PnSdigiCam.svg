@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" style="shape-rendering:geometricPrecision;text-rendering:geometricPrecision;image-rendering:optimizeQuality" fill-rule="evenodd" xml:space="preserve" clip-rule="evenodd" viewBox="0 0 10667 8000">
+ <defs>
+  <style type="text/css">
+    .fil9 {fill:#4B4B4D}
+    .fil0 {fill:#606062}
+    .fil8 {fill:#727376}
+    .fil1 {fill:#848688}
+    .fil4 {fill:#A9ABAE}
+    .fil10 {fill:#ABA994}
+    .fil5 {fill:#D2D3D5}
+    .fil6 {fill:#E6E7E8}
+    .fil13 {fill:#FEFEFE}
+    .fil7 {fill:#FEFEFE;fill-opacity:0.309804}
+    .fil3 {fill:url(#id0)}
+    .fil11 {fill:url(#id1)}
+    .fil2 {fill:url(#id2)}
+    .fil12 {fill:url(#id3)}
+  </style>
+  <linearGradient id="id0" y2="1681.7" gradientUnits="userSpaceOnUse" y1="5367.6" x2="6127.1" x1="5548.2">
+   <stop stop-color="#FEFEFE" offset="0"/>
+   <stop stop-color="#D3A8C4" offset=".23922"/>
+   <stop stop-color="#A8518A" offset="1"/>
+  </linearGradient>
+  <linearGradient id="id1" y2="3699.2" gradientUnits="userSpaceOnUse" y1="4275.4" x2="6845.7" x1="7319.7">
+   <stop stop-color="#FEFEFE" offset="0"/>
+   <stop stop-color="#ABA994" offset="1"/>
+  </linearGradient>
+  <linearGradient id="id2" y2="2740.8" gradientUnits="userSpaceOnUse" y1="4956.5" x2="7810.7" x1="3310">
+   <stop stop-color="#A8518A" offset="0"/>
+   <stop stop-color="#FEFEFE" offset="1"/>
+  </linearGradient>
+  <linearGradient id="id3" y2="3907.1" gradientUnits="userSpaceOnUse" y1="3703.2" x2="6936.8" x1="6769">
+   <stop stop-color="#FEFEFE" offset="0"/>
+   <stop stop-color="#FEFEFE" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <g id="_362947200">
+   <rect rx="94" ry="94" height="188" width="653" y="1774" x="7585" class="fil0"/>
+   <path class="fil1" d="m1972 4838l215-215c77-77 203-77 281 0l215 215c77 77 77 203 0 281l-215 215c-77 77-203 77-281 0l-215-215c-77-77-77-203 0-281zm94 63c43 0 77 35 77 77 0 43-35 77-77 77-43 0-77-35-77-77 0-43 35-77 77-77z"/>
+   <path class="fil1" d="m3236 1746h79v53c0 11 9 21 21 21h691c11 0 21-9 21-21v-53h79c25 0 45 20 45 45v243c0 25-20 45-45 45h-890c-25 0-45-20-45-45v-243c0-25 20-45 45-45z"/>
+   <rect rx="429" ry="429" height="3961" width="6787" y="1868" x="2167" class="fil2"/>
+   <path class="fil3" d="m2722 1868h5803c236 0 429 193 429 429v2583c-256 189-571 301-912 301h-3779c-848 0-1541-694-1541-1541v-1772z"/>
+   <rect rx="153" ry="153" height="458" width="1569" y="2212" x="2621" class="fil4"/>
+   <circle cy="3906" cx="6936" r="1664" class="fil5"/>
+   <circle cy="3906" cx="6936" r="1574" class="fil4"/>
+   <path class="fil6" d="m8247 4777c-37 56-78 110-122 160l-1182-1058 1304 898z"/>
+   <path class="fil5" d="m8034 5033c-281 274-664 444-1086 447v-1598l1086 1151z"/>
+   <path class="fil6" d="m5629 3030c46-69 98-134 154-194l1146 1097-1300-903z"/>
+   <path class="fil7" d="m5837 2780c281-274 664-444 1086-447v1598l-1086-1151z"/>
+   <circle cy="3906" cx="6936" r="1118" class="fil1"/>
+   <rect rx="164" ry="164" height="992" width="2004" y="3435" x="5921" class="fil8"/>
+   <path class="fil9" d="m6382 3435h1082c120 131 193 305 193 496s-73 365-193 496h-1082c-120-131-193-305-193-496s73-365 193-496z"/>
+   <circle cy="3931" cx="6924" r="457" class="fil10"/>
+   <path class="fil11" d="m7108 3863c129-50 227 10 220 136-7 125-118 268-246 318-129 50-227-10-220-136 7-125 118-268 246-318z"/>
+   <path class="fil12" d="m6606 3701c52-56 118-73 149-36 30 36 13 112-39 168s-118 73-149 36c-30-36-13-112 39-168z"/>
+   <rect rx="49" ry="49" height="97" width="653" y="1700" x="3355" class="fil1"/>
+    <rect rx="193" ry="193" height="580" width="1641" y="2183" x="2585" class="fil4"/>
+     <path class="fil13" d="m2649 2605l37 37c-14-10-27-23-37-37z"/>
+     <path class="fil13" d="m2621 2481l190 190h-37c-12 0-24-1-36-4l-113-113c-3-12-4-24-4-36v-37z"/>
+     <polygon points="2621 2384 2907 2670 2838 2670 2621 2453" class="fil13"/>
+     <path class="fil13" d="m2635 2301l369 369h-68l-314-314c1-19 6-38 14-55z"/>
+     <path class="fil13" d="m2677 2247l423 423h-68l-387-387c9-14 20-26 32-36z"/>
+     <path class="fil13" d="m2742 2215l455 455h-68l-435-435c15-9 31-16 49-20z"/>
+     <path class="fil13" d="m2835 2212l458 458h-68l-458-458h69z"/>
+     <polygon points="2932 2212 3390 2670 3322 2670 2863 2212" class="fil13"/>
+     <polygon points="3028 2212 3487 2670 3418 2670 2960 2212" class="fil13"/>
+     <polygon points="3125 2212 3583 2670 3515 2670 3057 2212" class="fil13"/>
+     <polygon points="3222 2212 3680 2670 3612 2670 3153 2212" class="fil13"/>
+     <polygon points="3318 2212 3777 2670 3708 2670 3250 2212" class="fil13"/>
+     <polygon points="3415 2212 3873 2670 3805 2670 3346 2212" class="fil13"/>
+     <polygon points="3511 2212 3970 2670 3901 2670 3443 2212" class="fil13"/>
+     <path class="fil13" d="m3608 2212l456 456c-9 2-18 2-27 2h-39l-458-458h68z"/>
+     <path class="fil13" d="m3705 2212l426 426c-13 10-28 18-44 24l-450-450h68z"/>
+     <path class="fil13" d="m3801 2212l373 373c-7 15-17 28-28 40l-413-413h68z"/>
+     <path class="fil13" d="m3898 2212l292 292v13c0 17-3 32-8 47l-353-353h68z"/>
+     <polygon points="3995 2212 4190 2408 4190 2476 3926 2212" class="fil13"/>
+     <path class="fil13" d="m4109 2230l62 62c12 22 18 46 18 72v14l-167-167h14c26 0 51 7 72 18z"/>
+  </g>
+ </g>
+<metadata><rdf:RDF><cc:Work><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/><dc:publisher><cc:Agent rdf:about="http://openclipart.org/"><dc:title>Openclipart</dc:title></cc:Agent></dc:publisher><dc:title>Digital Camera</dc:title><dc:date>2012-07-08T03:44:15</dc:date><dc:description>A purple colored Digital Point and shoot camera.</dc:description><dc:source>http://openclipart.org/detail/171090/digital-camera-by-wik2kassa-171090</dc:source><dc:creator><cc:Agent><dc:title>wik2kassa</dc:title></cc:Agent></dc:creator><dc:subject><rdf:Bag><rdf:li>camera</rdf:li><rdf:li>clip art</rdf:li><rdf:li>clipart</rdf:li><rdf:li>digital camera</rdf:li><rdf:li>flash</rdf:li><rdf:li>point and shoot</rdf:li><rdf:li>purple</rdf:li><rdf:li>small</rdf:li></rdf:Bag></dc:subject></cc:Work><cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/"><cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/><cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/><cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/></cc:License></rdf:RDF></metadata></svg>
